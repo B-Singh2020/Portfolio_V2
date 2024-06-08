@@ -125,7 +125,7 @@ const About = () => {
     sr.reveal(revealContainer.current, srConfig());
   }, []);
 
-  const skills = ['JavaScript (ES6+)', 'TypeScript', 'React', 'Eleventy', 'Node.js', 'WordPress'];
+  const skills = ['Java', 'Python', 'Linux', 'SQL', 'Android Studio', 'WebMethods'];
 
   return (
     <StyledAboutSection id="about" ref={revealContainer}>
@@ -135,30 +135,23 @@ const About = () => {
         <StyledText>
           <div>
             <p>
-              Hello! My name is Brittany and I enjoy creating things that live on the internet. My
-              interest in web development started back in 2012 when I decided to try editing custom
-              Tumblr themes — turns out hacking together a custom reblog button taught me a lot
-              about HTML &amp; CSS!
+              Back in 2016, coding a simple calculator program sparked a fire in me. That first
+              project showed me the incredible potential of code to solve meaningful problems.
             </p>
 
             <p>
               Fast-forward to today, and I’ve had the privilege of working at{' '}
-              <a href="https://us.mullenlowe.com/">an advertising agency</a>,{' '}
-              <a href="https://starry.com/">a start-up</a>,{' '}
-              <a href="https://www.apple.com/">a huge corporation</a>, and{' '}
-              <a href="https://scout.camd.northeastern.edu/">a student-led design studio</a>. My
-              main focus these days is building accessible, inclusive products and digital
-              experiences at <a href="https://upstatement.com/">Upstatement</a> for a variety of
-              clients.
+              <a href="https://www.intersecinc.com/">a cybersecurity corporation</a>, and{' '}
+              <a href="https://www.cgi.com/en">a technology consulting firm</a>. My main focus these
+              days is building robust features and solutions at{' '}
+              <a href="https://www2.deloitte.com/us/en.html">Deloitte</a> for a variety of clients.
             </p>
 
             <p>
-              I also recently{' '}
-              <a href="https://www.newline.co/courses/build-a-spotify-connected-app">
-                launched a course
-              </a>{' '}
-              that covers everything you need to build a web app with the Spotify API using Node
-              &amp; React.
+              Currently, I build Business Intelligence features while expanding my skillset to
+              conquer cloud & machine learning (never stop learning!). When I'm offline, I enjoy
+              giving back to my community by teaching dance and organizing hackathons to spark the
+              same passion for creation in others.
             </p>
 
             <p>Here are a few technologies I’ve been working with recently:</p>

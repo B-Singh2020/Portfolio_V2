@@ -1,14 +1,12 @@
 ---
 date: '2'
-title: 'Spotify Profile'
-cover: './demo.png'
-github: 'https://github.com/bchiang7/spotify-profile'
-external: 'https://spotify-profile.herokuapp.com/'
+title: 'Logical Predicate Creator'
+cover: './logicalPred.png'
+github: 'https://github.com/B-Singh2020/SWE432_Servlet2/blob/master/src/main/java/servlet/LogicalPredicateCalculator.java'
+external: 'https://logicalpredserv-01c4ea89d3be.herokuapp.com/LPC'
 tech:
-  - React
-  - Styled Components
-  - Express
-  - Spotify API
+  - Java
+  - HTML/CSS
   - Heroku
 ---
 
