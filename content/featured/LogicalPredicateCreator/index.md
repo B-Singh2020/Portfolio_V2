@@ -10,4 +10,4 @@ tech:
   - Heroku
 ---
 
-A web app for visualizing personalized Spotify data. View your top artists, top tracks, recently played tracks, and detailed audio information about each track. Create and save new playlists of recommended tracks based on your existing playlists and more.
+This Java servlet web app guides users in building logical predicates. It enforces variable naming rules, dynamically adds rows, and allows users to craft expressions with AND, OR, XOR operators. Users can submit these predicates to generate a truth table.
