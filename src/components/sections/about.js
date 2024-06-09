@@ -126,7 +126,7 @@ const About = () => {
   }, []);
 
   const skills = ['Java', 'Python', 'Linux', 'SQL', 'Android Studio', 'WebMethods'];
-
+  const certs = ['CompTIA Security+'];
   return (
     <StyledAboutSection id="about" ref={revealContainer}>
       <h2 className="numbered-heading">About Me</h2>
@@ -156,9 +156,17 @@ const About = () => {
 
             <p>Here are a few technologies I’ve been working with recently:</p>
           </div>
-
+          <div>
+            <ul className="skills-list">
+              {skills && skills.map((skill, i) => <li key={i}>{skill}</li>)}
+            </ul>
+          </div>
+          <div>
+            <br></br>
+            <p>In addition to my coding experience, I hold certifications in:</p>
+          </div>
           <ul className="skills-list">
-            {skills && skills.map((skill, i) => <li key={i}>{skill}</li>)}
+            {certs && certs.map((cert, i) => <li key={i}>{cert}</li>)}
           </ul>
         </StyledText>
 

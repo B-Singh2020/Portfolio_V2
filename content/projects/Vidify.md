@@ -11,4 +11,4 @@ company: ''
 showInProjects: true
 ---
 
-Built with ASP.NET, Vidify served as my learning ground for secure user management (ASP.NET Identity) and database interaction (Entity Framework). It offers a responsive UI for movie browsing and rentals (customers) and admin management.
+Built with ASP.NET, Vidify served as my intro to secure user management (ASP.NET Identity) and database interaction (Entity Framework). It has a responsive UI for movie browsing and user rentals and admin management.

@@ -1,7 +1,7 @@
 ---
 date: '2020-11-29'
 title: 'Logical Predicate Creator'
-github: ''
+github: 'https://github.com/B-Singh2020/SWE432_Servlet2/blob/master/src/main/java/servlet/LogicalPredicateCalculator.java'
 external: 'https://logicalpredserv-01c4ea89d3be.herokuapp.com/LPC'
 android: ''
 tech:

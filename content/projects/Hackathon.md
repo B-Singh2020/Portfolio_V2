@@ -11,4 +11,4 @@ company: 'Hackathon'
 showInProjects: true
 ---
 
-This award-winning project (2 awards at Patriothacks 2019) leverages machine learning to create a versatile application with real-time object identification and mood detection capabilities.
+Award-winning project (2 awards at Patriothacks 2019) leverages machine learning to create a application with real-time object identification and mood detection capabilities.
