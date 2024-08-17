@@ -66,7 +66,7 @@ const Hero = () => {
     <>
       <p>
         I’m a software engineer specializing in building (and occasionally designing) exceptional
-        digital applications. Currently, I’m focused on building enterprise finanacial solutions at{' '}
+        digital applications. Currently, I’m focused on building enterprise financial solutions at{' '}
         <a href="https://www2.deloitte.com/us/en.html" target="_blank" rel="noreferrer">
           Deloitte
         </a>
