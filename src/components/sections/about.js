@@ -126,7 +126,7 @@ const About = () => {
   }, []);
 
   const skills = ['Java', 'Python', 'Linux', 'SQL', 'Android Studio', 'WebMethods'];
-  const certs = ['CompTIA Security+'];
+  const certs = ['CompTIA Security+', 'AWS Certified Cloud Practioner'];
   return (
     <StyledAboutSection id="about" ref={revealContainer}>
       <h2 className="numbered-heading">About Me</h2>
