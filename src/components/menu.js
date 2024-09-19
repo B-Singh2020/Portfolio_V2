@@ -266,7 +266,7 @@ const Menu = () => {
               </ol>
             )}
 
-            <a href="/Bsingh_Resume_8_17.pdf" className="resume-link">
+            <a href="/Bsingh_Resume_4.pdf" className="resume-link">
               Resume
             </a>
           </nav>
