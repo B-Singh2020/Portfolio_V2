@@ -9,7 +9,7 @@ tech:
   - Pandas
   - NLTK
 company: 'University'
-showInProjects: false
+showInProjects: true
 ---
 
-Facebook Messenger chat bot extension featuring authentication and full song streaming from within the Messenger app. Read more about it on [The Verge](https://www.theverge.com/2017/10/5/16433770/facebook-messenger-apple-music-bot-song-streaming).
+This Python project leverages KNN to classify sentiment by finding the most alike reviews in a training set. It utilizes machine learning libraries like scikit-learn and NLTK to achieve 84% accuracy classifying if a review is positive or negative.

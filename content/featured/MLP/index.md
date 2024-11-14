@@ -1,5 +1,5 @@
 ---
-date: '1'
+date: '2'
 title: 'MLP Digit Classifier'
 cover: './MLP.png'
 external: 'https://github.com/B-Singh2020/MLP/tree/master'

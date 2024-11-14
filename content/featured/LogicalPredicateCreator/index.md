@@ -1,5 +1,5 @@
 ---
-date: '2'
+date: '3'
 title: 'Logical Predicate Creator'
 cover: './logicalPred.png'
 github: 'https://github.com/B-Singh2020/SWE432_Servlet2/blob/master/src/main/java/servlet/LogicalPredicateCalculator.java'
