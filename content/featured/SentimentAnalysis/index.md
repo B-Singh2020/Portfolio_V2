@@ -1,6 +1,6 @@
 ---
 date: '1'
-title: 'KNN Review Sentiment Analysis'
+title: 'Autonomous Buoy Detection System'
 cover: './IMG_8476.jpg'
 external: 'https://github.com/langulo12/RobotxGMU'
 cta: 'https://robotx.org/programs/2024/'
